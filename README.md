@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abid Nawaz and I'm a Font-End-Developer</h2>
+<h2 align="left">Hi 👋! My name is Abid Nawaz and I'm a Software Engineer</h2>
 
 ###
 
